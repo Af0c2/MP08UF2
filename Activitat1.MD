@@ -146,48 +146,63 @@ Per instal·lar les adreces directes a l'escriptori, el que farem serà anar a p
 
 ![img6](img6.png)
 
-A continuació seleccionarem tots els arxius dels quals volem que formen part de la còpia de seguretat:
+Anirem a afegir un compte amb google, haurem de posar el correu i la contrasenya.
 
 ![img7](img7.png)
 
-Quan acabessim de seleccionar tots els arxius un a un, li donarem a següent pas:
+Un cop fet això ens sortirà aquest missatge i ho permetrem.
 
 ![img8](img8.png)
 
-Un cop seleccionats els arxius, tirarem el destí d’origen (en el nostre cas Drive), la freqüència i el tipus d’arxiu.
+Un cop ho hem permès ens sortirà això, seleccionarem el que volguessin que ens surti al ordenador. En el nostre cas deixarem que ens arribin els correus i que poguessim veure els fitxers que tenim al drive.
 
 ![img9](img9.png)
 
-Un cop fet això li donarem al botó ”Crear exportación” i començarà el procés.
-
-![img10](img10.png)
-
-Un cop començat el procés ens sortirà aquest missatge.
-
-![img11](img11.png)
-
-Per veure on se’ns ha guardat la còpia de seguretat, anirem a “Emmagatzematge” i seguidament entrarem a “Còpies de seguretat” situat a la part superior dreta de la pantalla:
-
-![img12](img12.png)
-
-Una vegada fet això, tindrem la còpia de seguretat feta i tindrem l'accés a totes les còpies de seguretat que haguessim fet.
 
 ### BACKUP PER PART DE L’ADMINISTRADOR
 
 Buscarem a Google “Google Takeout” i entrarem al primer enllaç:
 
-![img13](img13.png)
+![img10](img10.png)
 
 A continuació seleccionarem tots els arxius dels quals volem que formen part de la còpia de seguretat:
 
-![img14](img14.png)
+![img11](img11.png)
 
 Quan acabessim de seleccionar tots els arxius un a un, li donarem a següent pas:
 
-![img15](img15.png)
+![img12](img12.png)
 
 Un cop seleccionats els arxius, tirarem el destí d’origen (en el nostre cas Drive), la freqüència i el tipus d’arxiu.
 
+![img13](img13.png)
+
+Un cop fet això li donarem al botó ”Crear exportación” i començarà el procés.
+
+![img14](img14.png)
+
+Un cop començat el procés ens sortirà aquest missatge.
+
+![img15](img15.png)
+
+Per veure on se’ns ha guardat la còpia de seguretat, anirem a “Emmagatzematge” i seguidament entrarem a “Còpies de seguretat” situat a la part superior dreta de la pantalla:
+
 ![img16](img16.png)
 
+Una vegada fet això, tindrem la còpia de seguretat feta i tindrem l'accés a totes les còpies de seguretat que haguessim fet.
+
+### CONSULTAR DOCUMENT PER PART DE L’USUARI
+
+Per consultar un document per part de l’usuari, el que haurem de fer serà, anar al drive i anar a l’apartat d’unitats compartides, un cop dintre, el que farem serà obrir la carpeta que ha creat l’administrador i ja podrem consultar tots els documents que hi han a l’unitat compartida.
+
 ![img17](img17.png)
+
+### COMPROVACIÓ ELIMINACIÓ DOCUMENT
+
+Un usuari pot eliminar documents depèn del permís que tingui. Si té el permís com a gestor de continguts, podrà afegir, editar, moure i suprimir documents. En canvi, si té el permís de col·laborador, només podrà afegir i editar documents. Si només té el permís de comentar, només podrà comentar i llegir el document i si té el permís de lector només podrà llegir el document.
+
+### CONCLUSIONS
+
+En conclusió, hem vist que la millor forma per guardar informació són les còpies de seguretat al núvol ja que és més ràpid, pràctic i efectiu, ja que pots accedir als teus arxius i ninformació desde qualsevol lloc. Apart no haurem de comprar ni portar damunt discs durs
+externs per accedir a les nostres dades.
+Si volguessim més seguretat el que hauríem de fer sería fer les còpies de seguretat amb hardware i a la vegada al núvol.
