@@ -52,7 +52,7 @@ Es fa una còpia de tots els fitxers i carpetes que s'han seleccionat. Quan es s
 
 #### AVANTATGES DE LES CÒPIA DE SEGURETAT COMPLETA
 
-- Disposeu d'una còpia de seguretat completa de totes les dades que podeu recuperar ràpidament i fàcilment.
+- Disposeu d'una còpia de seguretat completa de totes les dadesBACKUP PER PART DE L’ADMINISTRADOR que podeu recuperar ràpidament i fàcilment.
 - Tens una còpia de seguretat de tots els fitxers i carpetes en una unitat de seguretat.
 - És fàcil portar un control de versions dels fitxers copiats.
 
@@ -120,7 +120,7 @@ Tenim que tenir en compte que no apliquem el 21% del IVA, ja que ja està aplica
 
 ### GUIA DE CREACIÓ DE L’USUARI ADMINISTRATIU I USUARI
 
-Des del compte de l'institut no podem canviar el compte d’usuari a usuari administratiu ja que no tenim el domini i no ho podem gestionar. En canvi, sí que ho podem gestionar si creem un document, d’aquesta manera un seria el propietari i l’altre usuari podria editar, llegir o comentar. Aquí us deixem el missatge que ens ha sortit, quan anàvem a passar d’usuari a usuari administrador.
+Des del compte de l'institut no podem canviar el compte d’usuari a usuari administratiu ja que no tenim el domini i no ho podem gestionar. En canvi, sí que ho podem gestionar si creem un document, d’aquesta manera un seria el propietari i l’BACKUP PER PART DE L’ADMINISTRADORaltre usuari podria editar, llegir o comentar. Aquí us deixem el missatge que ens ha sortit, quan anàvem a passar d’usuari a usuari administrador.
 
 ![img2](img2.png)
 
@@ -172,15 +172,21 @@ Per veure on se’ns ha guardat la còpia de seguretat, anirem a “Emmagatzemat
 
 Una vegada fet això, tindrem la còpia de seguretat feta i tindrem l'accés a totes les còpies de seguretat que haguessim fet.
 
-### CONSULTAR DOCUMENT PER PART DE L’USUARI
+### BACKUP PER PART DE L’ADMINISTRADOR
 
-Per consultar un document per part de l’usuari, el que haurem de fer serà, anar al drive i anar a l’apartat d’unitats compartides, un cop dintre, el que farem serà obrir la carpeta que ha creat l’administrador i ja podrem consultar tots els documents que hi han a l’unitat compartida.
+Buscarem a Google “Google Takeout” i entrarem al primer enllaç:
 
 ![img13](img13.png)
 
+A continuació seleccionarem tots els arxius dels quals volem que formen part de la còpia de seguretat:
+
 ![img14](img14.png)
 
+Quan acabessim de seleccionar tots els arxius un a un, li donarem a següent pas:
+
 ![img15](img15.png)
+
+Un cop seleccionats els arxius, tirarem el destí d’origen (en el nostre cas Drive), la freqüència i el tipus d’arxiu.
 
 ![img16](img16.png)
 
