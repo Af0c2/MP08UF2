@@ -152,11 +152,11 @@ Anirem a afegir un compte amb google, haurem de posar el correu i la contrasenya
 
 Un cop fet això ens sortirà aquest missatge i ho permetrem.
 
-![img8](img8.png)
+![img18](img18.png)
 
 Un cop ho hem permès ens sortirà això, seleccionarem el que volguessin que ens surti al ordenador. En el nostre cas deixarem que ens arribin els correus i que poguessim veure els fitxers que tenim al drive.
 
-![img9](img9.png)
+![img19](img19.png)
 
 
 ### BACKUP PER PART DE L’ADMINISTRADOR
