@@ -144,4 +144,44 @@ Un cop tenim això ja tindrem la nostra unitat compartida creada.
 
 Per instal·lar les adreces directes a l'escriptori, el que farem serà anar a paràmetres, un cop allí anirem a l’apartat de comptes en línea i ens sortirà això.
 
-![img5](img5.png)
+![img6](img6.png)
+
+A continuació seleccionarem tots els arxius dels quals volem que formen part de la còpia de seguretat:
+
+![img7](img7.png)
+
+Quan acabessim de seleccionar tots els arxius un a un, li donarem a següent pas:
+
+![img8](img8.png)
+
+Un cop seleccionats els arxius, tirarem el destí d’origen (en el nostre cas Drive), la freqüència i el tipus d’arxiu.
+
+![img9](img9.png)
+
+Un cop fet això li donarem al botó ”Crear exportación” i començarà el procés.
+
+![img10](img10.png)
+
+Un cop començat el procés ens sortirà aquest missatge.
+
+![img11](img11.png)
+
+Per veure on se’ns ha guardat la còpia de seguretat, anirem a “Emmagatzematge” i seguidament entrarem a “Còpies de seguretat” situat a la part superior dreta de la pantalla:
+
+![img12](img12.png)
+
+Una vegada fet això, tindrem la còpia de seguretat feta i tindrem l'accés a totes les còpies de seguretat que haguessim fet.
+
+### CONSULTAR DOCUMENT PER PART DE L’USUARI
+
+Per consultar un document per part de l’usuari, el que haurem de fer serà, anar al drive i anar a l’apartat d’unitats compartides, un cop dintre, el que farem serà obrir la carpeta que ha creat l’administrador i ja podrem consultar tots els documents que hi han a l’unitat compartida.
+
+![img13](img13.png)
+
+![img14](img14.png)
+
+![img15](img15.png)
+
+![img16](img16.png)
+
+![img17](img17.png)
