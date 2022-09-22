@@ -123,3 +123,9 @@ Tenim que tenir en compte que no apliquem el 21% del IVA, ja que ja està aplica
 Des del compte de l'institut no podem canviar el compte d’usuari a usuari administratiu ja que no tenim el domini i no ho podem gestionar. En canvi, sí que ho podem gestionar si creem un document, d’aquesta manera un seria el propietari i l’altre usuari podria editar, llegir o comentar. Aquí us deixem el missatge que ens ha sortit, quan anàvem a passar d’usuari a usuari administrador.
 
 ![img2](img2.png)
+
+### CREACIÓ D’UNITATS COMPARTIDES BACKUP I DOCUMENTS
+
+Per crear una unitat compartida el que farem serà anar al google drive i anirem a l’apartat de unitats compartides. Quan estem allí crearem una unitat compartida.
+
+![img3](img3.png)
