@@ -206,3 +206,5 @@ Un usuari pot eliminar documents depèn del permís que tingui. Si té el permí
 En conclusió, hem vist que la millor forma per guardar informació són les còpies de seguretat al núvol ja que és més ràpid, pràctic i efectiu, ja que pots accedir als teus arxius i ninformació desde qualsevol lloc. Apart no haurem de comprar ni portar damunt discs durs
 externs per accedir a les nostres dades.
 Si volguessim més seguretat el que hauríem de fer sería fer les còpies de seguretat amb hardware i a la vegada al núvol.
+
+
