@@ -129,3 +129,19 @@ Des del compte de l'institut no podem canviar el compte d’usuari a usuari admi
 Per crear una unitat compartida el que farem serà anar al google drive i anirem a l’apartat de unitats compartides. Quan estem allí crearem una unitat compartida.
 
 ![img3](img3.png)
+
+Un cop la tenim creada ens sortirà així:
+
+![img4](img4.png)
+
+Ara el que farem serà posar a la gent i podrem triar q volem que sigui cada usuari.
+
+![img5](img5.png)
+
+Un cop tenim això ja tindrem la nostra unitat compartida creada.
+
+### INSTAL·LACIÓ D’ADRECES DIRECTES ALS ESCRIPTORIS
+
+Per instal·lar les adreces directes a l'escriptori, el que farem serà anar a paràmetres, un cop allí anirem a l’apartat de comptes en línea i ens sortirà això.
+
+![img5](img5.png)
