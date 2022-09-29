@@ -17,5 +17,10 @@ Els requeriments que necessitem per instal·lar l'OwnCloud són:
 
 ### Instal·lació:
 
+#### Instal·lació Apache:
 
+1. El primer pas que farem per poder realitzar l'instal·lació de l'OwnCloud serà obrir el terminal, i un cop obert el terminal començarem instal·lant el servidor *apache*. Utilitzarem la següent comanda "sudo apt install apache2"
 
+![1cap](1.png)
+
+2. El següent que farem serà desactivar el llistat de directoris del servidor. 
