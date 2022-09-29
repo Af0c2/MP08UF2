@@ -177,4 +177,16 @@ sudo apt update
 ```
 
 ![1cap](27.png)
+![1cap](28.png)
 
+3. Un cop fet això, el que farem serà instal·lar el PHP i els móduls necessaris.
+
+```
+sudo apt install php7.4 libapache2-mod-php7.4 php7.4-common php7.4-mbstring php7.4-xmlrpc php7.4-soap php7.4-apcu php7.4-smbclient php7.4-ldap php7.4-redis php7.4-gd php7.4-xml php7.4-intl php7.4-json php7.4-imagick php7.4-mysql php7.4-cli php7.4-mcrypt php7.4-ldap php7.4-zip php7.4-curl -y
+```
+![1cap](29.png)
+![1cap](30.png)
+
+4. Després de l'instal·lació, el que farem serà editar el fitxer php.ini i canviarem alguns valors.
+
+```
