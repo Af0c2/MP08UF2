@@ -21,26 +21,35 @@ Els requeriments que necessitem per instal·lar l'OwnCloud són:
 
 1. El primer pas que farem per poder realitzar l'instal·lació de l'OwnCloud serà obrir el terminal, i un cop obert el terminal començarem instal·lant el servidor *apache*. 
 
-"sudo apt install apache2"
+```
+sudo apt install apache2
+```
 
 ![1cap](1.png)
 ![1cap](2.png)
 
 2. Ara el que farem serà mirar l'estat del servidor.
 
-"service apache2 status"
+```
+service apache2 status
+```
+
 ![1cap](3.png)
 ![1cap](4.png)
 
 3. Un cop mirat l'estat entrarem al següent directori: /var/www/html
 
-"cd /var/www/html"
+```
+cd /var/www/html
+```
 
 ![1cap](5.png)
 
 4. Un cop hem entrat al directori, el següent que farem serà desactivar el llistat de directoris del servidor. 
 
-"sudo sed -i "s/Options Indexes FollowSymLinks/Options FollowSymLinks/" /etc/apache2/apache2.conf"
+```
+sudo sed -i "s/Options Indexes FollowSymLinks/Options FollowSymLinks/" /etc/apache2/apache2.conf
+```
 
 ![1cap](5.png)
 
@@ -48,14 +57,18 @@ Els requeriments que necessitem per instal·lar l'OwnCloud són:
 
 1. El següent pas que farem un cop instal·lat l'apache serà instal·lar MariaDB.
 
-"sudo apt-get install mariadb-server mariadb-client -y"
+```
+sudo apt-get install mariadb-server mariadb-client -y
+```
 
 ![1cap](6.png)
 ![1cap](7.png)
 
 2. Un cop instal·lat, el que farem serà configurar la instal·lació.
 
-"sudo mysql_secure_installation"
+```
+sudo mysql_secure_installation
+```
 
 ![1cap](8.png)
 
@@ -89,7 +102,9 @@ Un cop contestades les preguntes, ja tindrem la configuració realitzada!!
 
 3. Per últim reiniciarem el servidor MariaDB.
 
-"sudo systemctl restart mariadb.service` o `sudo service mariadb.service restart"
+```
+sudo systemctl restart mariadb.service` o `sudo service mariadb.service restart
+```
 
 ![1cap](16.png)
 
@@ -97,32 +112,42 @@ Un cop contestades les preguntes, ja tindrem la configuració realitzada!!
 
 1. Entrarem a MariaDB
 
-"sudo mysql -u root -p"
+```
+sudo mysql -u root -p
+```
 
 ![1cap](17.png)
 
 Un cop dintre, el que farem serà crear la base de dades.
 
-"CREATE DATABASE owncloud;"
+```
+CREATE DATABASE owncloud;
+```
 
 ![1cap](17.png)
 
 Un cop creada la base de dades, crearem l'usuari amb el nom *ownclouduser* i li assignarem la contrasenya *Admin1234*.
 
-"CREATE USER 'ownclouduser'@'localhost' IDENTIFIED BY 'Admin1234';"
+```
+CREATE USER 'ownclouduser'@'localhost' IDENTIFIED BY 'Admin1234';
+```
 
 ![1cap](18.png)
 
 Un cop fet això, el que farem serà donar-li accés a l'usuari a la base de dades creada. 
 
-"GRANT ALL ON owncloud.* TO 'ownclouduser'@'localhost' IDENTIFIED BY 'Admin1234' WITH GRANT OPTION;"
+```
+GRANT ALL ON owncloud.* TO 'ownclouduser'@'localhost' IDENTIFIED BY 'Admin1234' WITH GRANT OPTION;
+```
 
 ![1cap](19.png)
 
 Aplicarem els canvis i sortirem.
 
-"FLUSH PRIVILEGES;
-EXIT;"
+```
+FLUSH PRIVILEGES;
+EXIT;
+```
 
 ![1cap](20.png)
 ![1cap](21.png)
@@ -131,8 +156,10 @@ EXIT;"
 
 1. El primer que farem serà posar les següents comandes, per instal·lar el software i afegir els repositoris.
 
-"sudo apt-get install software-properties-common -y
-sudo add-apt-repository ppa:ondrej/php"
+```
+sudo apt-get install software-properties-common -y
+sudo add-apt-repository ppa:ondrej/php
+```
 
 ![1cap](22.png)
 ![1cap](23.png)
