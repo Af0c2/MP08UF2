@@ -187,10 +187,11 @@ sudo apt install php7.4 libapache2-mod-php7.4 php7.4-common php7.4-mbstring php7
 ![1cap](29.png)
 ![1cap](30.png)
 
-4. Després de l'instal·lació, el que farem serà editar el fitxer php.ini i canviarem el valor de la memòria límit de 128M a 256M.
+4. Després de l'instal·lació, el que farem serà editar el fitxer php.ini i canviarem el valor de memory_limit de 128M a 256M i el upload_max_filesize de 2M a 100M.
 
 ```
 sudo gedit /etc/php/7.4/apache2/php.ini
 ```
 ![1cap](31.png)
 ![1cap](32.png)
+![1cap](34.png)
