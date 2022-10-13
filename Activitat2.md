@@ -263,4 +263,5 @@ sudo service Apache2 restart
 ![1cap](44.png)
 
 Un cop fet això ja podrem configurar l'Owncloud.
+
 ![1cap](45.png)
