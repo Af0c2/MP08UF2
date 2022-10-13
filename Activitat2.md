@@ -265,3 +265,17 @@ sudo service Apache2 restart
 Un cop fet això ja podrem configurar l'Owncloud.
 
 ![1cap](45.png)
+
+
+#### Preguntes Activitat 2
+
+- Què signifiquen a Apache les línies de configuració del fitxer owncloud.conf.
+
+![1cap](42.png)
+
+
+
+- Què fa la comanda a2ensite?
+- I la comando a2dissite?
+- Què significa la línia de /etc/hosts
+    - 127.0.0.1 owncloud.XYZ.com
