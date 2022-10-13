@@ -204,12 +204,14 @@ sudo gedit /etc/php/7.4/apache2/php.ini
 cd /tmp && wget https://download.owncloud.com/server/stable/owncloud-complete-latest.zip
 unzip owncloud-complete-latest.zip
 ```
+![1cap](33.png)
 
 2. Un cop instal·lat el mourem a /var/www/html/owncloud/
 
 ```
 sudo mv owncloud /var/www/html/owncloud/
 ```
+![1cap](37.png)
 
 3. Un cop l'hem mogut, canviarem el propietari i els permisos dels directori d'owncloud. Per fer-ho utilitzarem aquestes dos comandes.
 
@@ -219,6 +221,7 @@ sudo chown -R www-data:www-data /var/www/html/owncloud/
 ```
 sudo chmod -R 755 /var/www/html/owncloud/
 ```
+![1cap](38.png)
 
 #### Configuració Apache
 
@@ -227,6 +230,8 @@ sudo chmod -R 755 /var/www/html/owncloud/
 ```
 sudo nano /etc/apache2/sites-available/owncloud.conf
 ```
+![1cap](41.png)
+![1cap](42.png)
 
 2. Un cop configurat el que farem sera habilitar l'Owncloud i el módul rewrite amb les següents comandes. 
 
@@ -248,10 +253,14 @@ sudo a2enmod dir
 ```
 sudo a2enmod mime
 ```
+![1cap](43.png)
 
 3. Un cop habilitat el reiniciarem.
 
 ```
 sudo service Apache2 restart
 ```
+![1cap](44.png)
 
+Un cop fet això ja podrem configurar l'Owncloud.
+![1cap](45.png)
