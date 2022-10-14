@@ -273,6 +273,8 @@ Un cop fet això ja podrem configurar l'Owncloud.
 
 ![1cap](42.png)
 
+La primera línea estableix l'adreça de contacte amb el servidor 
+
 
 
 - Què fa la comanda a2ensite?
