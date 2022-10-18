@@ -273,11 +273,22 @@ Un cop fet això ja podrem configurar l'Owncloud.
 
 ![1cap](42.png)
 
-La primera línea estableix l'adreça de contacte amb el servidor 
+*La primera línea estableix l'adreça de contacte amb el servidor.
+*La segona DocumentRoot és el directori de nivell superior de l'arbre de documents visible des del web.
+*La tercera és el nom d'amfitrió i port que el servidor utilitzaa per identificar-se.
+*La quarta són els noms alternatius per a un host oer coincidir amb els hosts virtuals.
+*La quinta és el nom del directori owncloud.
+*La sexta és el directory ownclod.
+*La setena controla la capacitat del servidor per seguir els enllaços simbòlics.
+*La vuitena prmet anul·lar alguns paràmetres d'Apache a través d'un fitxer.
+*La novena imita la funcionalitat que anteriorment proporcionaven les directives. 
+*La desena apaga l'autorització i versió distribuida basada en web.
 
 
 
 - Què fa la comanda a2ensite?
+  *La comanda a2ensite habilita un lloc web especificat dins de la configuració d'apache2.
+
 - I la comando a2dissite?
 - Què significa la línia de /etc/hosts
     - 127.0.0.1 owncloud.XYZ.com
