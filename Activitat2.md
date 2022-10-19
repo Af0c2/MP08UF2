@@ -294,4 +294,5 @@ La desena apaga l'autorització i versió distribuida basada en web.**
   
 - Què significa la línia de /etc/hosts
     - 127.0.0.1 owncloud.XYZ.com
+    
       **Fa una concessió entre la ip d'una direcció.**
