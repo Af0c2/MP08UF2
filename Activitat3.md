@@ -31,14 +31,14 @@ apache2ctl -S
     
     **Encryption at Rest: Està dissenyat per evitar que l'atacant accedeixi a les dades no xifrades assegurant-se que les dades estiguin xifrades quan es troben al disc.**
     
-    **End-to-End Encryption: És un mètode de comunicació segura que impedeix que tercers accedeixin a les dades mentre es transfereixen d'un sistema o dispositiu final a un altre.
+    **End-to-End Encryption: És un mètode de comunicació segura que impedeix que tercers accedeixin a les dades mentre es transfereixen d'un sistema o dispositiu final a un altre.**
     
 - Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Office de la nostra empresa?  
-    **La raó per la que se'ns recomana utilitzar Ownloud és perquè així els documents de Microsoft Office de la nostra empresa estan guardats a un lloc segur i és molt difícil que se'ns perdin/borrin.
+    **La raó per la que se'ns recomana utilitzar Ownloud és perquè emmagatzema tots els documents i correus elèctronics directament al núvol. Amb Owncloud i les seves aplicacions de Microsoft integrades, els empleats poden experimentar la productivitat total i la connectivitat perfecta sense arriscar-se a l'accés no autoritzat o a violacions de la protecció de dades, gràcies a un emmagatzematge de dades centralitzat al seu núvol privat.**
    
 - Això passa a tots els països?
 
-    **Això no passa a tots els països...
+    **No passa a tots els països, ja que la llei nord-americana obliga a l'empresa a donar accés a les agències governamentals a les dades dels usuaris de Microsoft a petició.**
     
 - Quina és la llicència d'OWncloud Enterprise?
 
@@ -62,7 +62,7 @@ apache2ctl -S
     
 - Compta Owncloud amb antivirus? En cas afirmatiu com es diu? 
 
-    **Si, el protocol és diu ICAP.**
+    **Si, el protocol és diu ClamAV.**
 
 
 
