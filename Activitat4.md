@@ -78,9 +78,13 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 
 ![image](https://user-images.githubusercontent.com/110727546/196159706-705ff624-c409-4632-acb4-f43ffcc486d4.png)
 
-**RESPOSTA PRIMERA APP**
+**Draw.io és una aplicació on podem crear els diagrames directament al nostre Owncloud amb qualsevol navegador i desar el treball al nostre emmagatzematge preferit.** 
 
-**RESPOSTA SEGONA APP**
+![image](4.13.png)
+
+**Collabora Online ens permet treballar amb tot tipus de documents ofimàtics directament al nostre navegador.**
+
+![image](4.13.1.png)
 
 **4.14.-** Crearem una carpeta nova per emmagatzematge a Owncloud, la carpeta serà /media/publicXYZ on XYZ són les teves inicials i apareixerà amb el nom de public als usuaris.
 
