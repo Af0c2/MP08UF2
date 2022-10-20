@@ -53,23 +53,26 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 
 **4.8.-** Crea un usuari anomenat usuari2XYZ i fical al grup usuaris.
 
-**RESPOSTA**
+![image](4.8.png)
 
 **4.9.-** Comparteix un fitxer de usuariXYZ a usuari2XYZ i mostra com l'usuari2XYZ pot veure i descarregar el fitxer.
 
-**RESPOSTA**
+![image](4.9.png)
+![image](4.9.1.png)
 
 **4.10.-** Esborra la carpeta Learn more about owncloud.
 
-**RESPOSTA**
+![image](4.10.png)
 
 **4.11.-** Recupera la carpeta Learn more about owncloud.
 
-**RESPOSTA**
+![image](10.11.png)
+![image](10.11.1.png)
 
 **4.12.-** Com a usuariXYZ crea una carpeta nova anomenada shared i comparteix-la amb l'usuari usuari2XYZ.
 
-**RESPOSTA**
+![image](4.12.png)
+![image](4.12.1.png)
 
 **4.13.-** Entra a Market instal·la dues aplicacions que no estiguin ja instal·lades i explica què fan i com funcionen.
 
