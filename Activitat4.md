@@ -48,7 +48,8 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 
 **4.7.-** Canvia la quota de l'usuari a 1GB i mostra tots els fitxers pujats.
 
-**RESPOSTA**
+![image](4.6.png)
+![image](4.7.png)
 
 **4.8.-** Crea un usuari anomenat usuari2XYZ i fical al grup usuaris.
 
