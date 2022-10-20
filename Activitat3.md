@@ -46,7 +46,7 @@ apache2ctl -S
     
 - I la d'Owncloud Standard?
 
-    **AGPLv3 (Cal compartir les personalitzacions amb la comunitat).*
+    **AGPLv3 (Cal compartir les personalitzacions amb la comunitat).**
     
 - Es poden veure videos en Streaming directament des de Owncloud?
 
