@@ -74,7 +74,7 @@ apache2ctl -S
    
 - Afegeix el teu mail de l'Institut.
 
-   ![image](correu.png) 
+   ![image](correu2.png) 
    
 - Canvia l'idioma a català.
 
