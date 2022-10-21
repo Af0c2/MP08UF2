@@ -90,15 +90,15 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 
 Aquesta carpeta haurà de pertànyer a l'usuari www-data.
 
-![image](4.14.1.png)
+![image](4.14.png)
 
 **4.15.-** Connectarem la carpeta publicXYZ com emmagatzematge local, tal i com s'indica [aquí](https://doc.owncloud.com/server/next/admin_manual/configuration/files/external_storage/local.html). Tots els usuaris tindran accés a la carpeta.
 
-**RESPOSTA**
+![image](4.15.png)
 
 **4.16.-** Un usuari normal pujarà un fitxer a la carpeta public.
 
-**RESPOSTA**
+![image](4.16.png)
 
 **OPCIONAL.-** Aquesta tasca és opcional.
 
